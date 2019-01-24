@@ -138,5 +138,17 @@ button:active {
     
   }
 
+  body {
+    line-height: 1.1rem;
+  }
+  
+  .weather__info {
+    font-size: 14px
+  }
+  
+  input[type = "text"] {
+    font-size: 15px
+  }
   
 }
+
