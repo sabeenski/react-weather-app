@@ -1,5 +1,5 @@
 ## Description
-A weather app that allows users to check the weather conditions of any city.
+A weather app that allows users to check the weather conditions of any city. It uses an API from [openweathermap](https://openweathermap.org/)
 
 ## Tech Stack
 * React
